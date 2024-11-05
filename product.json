@@ -1,0 +1,227 @@
+[
+    {
+      "name": "Apple AirPods Pro",
+      "price": "24999",
+      "color": "White",
+      "category": "Earbuds",
+      "description": "Apple AirPods Pro with Active Noise Cancellation",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MME73?wid=800&hei=800&fmt=jpeg&qlt=95&op_usm=0.5,0.5,0.5,0.5",
+      "id": "ap01"
+    },
+    {
+      "name": "Campus Shoes",
+      "price": "1140",
+      "color": "Black",
+      "category": "Shoes",
+      "description": "Campus Running Shoes For Men(Black)",
+      "image": "https://n2.sdlcdn.com/imgs/j/n/g/Campus-NORTH-PLUS-Black-Running-SDL521014371-1-e06f3.jpg",
+      "id": "ca09"
+    },
+    {
+      "name": "Boat Smart Watch",
+      "price": "1000",
+      "color": "Black",
+      "category": "Smart Watch",
+      "description": "boAt Xtend Smart Watch with Alexa Built-in, 1.69” HD Display, Multiple Watch Faces, Stress Monitor, Heart & SpO2 Monitoring, 14 Sports Modes, Sleep Monitor, 5 ATM & 7 Days Battery(Pitch Black)",
+      "image": "https://m.media-amazon.com/images/I/61IMRs+o0iL._SX679_.jpg",
+      "id": "1c2e"
+    },
+    {
+      "id": "9880",
+      "name": "Headphone",
+      "price": "500 ",
+      "color": "Black",
+      "category": "HeadPhone",
+      "description": "boAt Rockerz 550 Over-Ear Wireless Headphone with: Amazon.in: Electronics",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/710XhG8bO3L._SL1500_.jpg"
+    },
+    {
+      "id": "0fef",
+      "name": "Sony Bluetooth Headphone",
+      "price": "900",
+      "color": "Black",
+      "category": "HeadPhone",
+      "description": "Sony MDR-XB650BT EXTRABASS Bluetooth Headphones MDRXB650BT/L B&H",
+      "image": "https://brain-images-ssl.cdn.dixons.com/6/4/10153446/u_10153446.jpg"
+    },
+    {
+      "name": "iphone14",
+      "price": "86900",
+      "color": "Sky Blue",
+      "category": "mobile",
+      "description": "Apple IPhone 14 And IPhone 14 Plus Specification And Pricing",
+      "image": "https://th.bing.com/th/id/OIP.RMgSZevhD7HOhlr8MP_9KwAAAA?rs=1&pid=ImgDetMain",
+      "id": "da90"
+    },
+    {
+      "name": "Apple iPhone 15 Pro Max",
+      "price": "146340",
+      "color": "Black",
+      "category": "mobile",
+      "description": "Apple iPhone 15 Pro Max - DXOMARK",
+      "image": "https://th.bing.com/th?id=OPAC.W6UFvvkcawci%2fg474C474&w=592&h=550&o=5&pid=21.1",
+      "id": "e6b8"
+    },
+    {
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": "139990",
+      "color": "Phantom Black",
+      "category": "mobile",
+      "description": "Samsung Galaxy S23 Ultra - Unmatched Performance",
+      "image": "https://m.media-amazon.com/images/I/4135+SZFvUL._AC_UF350,350_QL80_.jpg",
+      "id": "s3a7"
+    },
+    {
+      "name": "Google Pixel 8 Pro",
+      "price": "119999",
+      "color": "Obsidian",
+      "category": "mobile",
+      "description": "Google Pixel 8 Pro - Exceptional Camera Quality",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJf3TvxyvoNE15549NTCMdIZX0W8FVJrzKA&s",
+      "id": "g8p2"
+    },
+    {
+      "name": "OnePlus 11",
+      "price": "56999",
+      "color": "Eternal Green",
+      "category": "mobile",
+      "description": "OnePlus 11 - Speed and Smoothness",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScpduuZtT08VcjasJDvDRtZBL3LsT56VqIg&s",
+      "id": "o11b"
+    },
+    {
+      "name": "Xiaomi 13 Pro",
+      "price": "74999",
+      "color": "Ceramic White",
+      "category": "mobile",
+      "description": "Xiaomi 13 Pro - Innovation at its Best",
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/76d63d54-c7ce-488d-834e-b519f2b9731823041128_416x416.jpg",
+      "id": "x13p"
+    },
+    {
+      "name": "Sony Xperia 1 IV",
+      "price": "109999",
+      "color": "Black",
+      "category": "mobile",
+      "description": "Sony Xperia 1 IV - Cinematic Experience",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvuZ9y1HGi5G98VdGi_Ka3Npyo1RTTaMrNg&s",
+      "id": "s1m4"
+    },
+    {
+      "name": "Samsung Galaxy S Series S24",
+      "price": "79999",
+      "color": "Gray",
+      "category": "mobile",
+      "description": "DAK Samsung Galaxy S24 5G (Cobalt Violet, 8 GB RAM, 256 GB Storage)",
+      "image": "https://th.bing.com/th?id=OPAC.dp6Outz8Ny3X1g474C474&w=592&h=550&o=5&pid=21.1",
+      "id": "5060"
+    },
+    {
+      "name": "SUMSUNG GALAXY S24 Ultra",
+      "price": "129999",
+      "color": "Black",
+      "category": "mobile",
+      "description": "SAMSUNG Galaxy S24 Ultra 5G (12GB RAM, 256GB, Titanium Black)",
+      "image": "https://th.bing.com/th/id/OIP.pJCoDVCeQLkTGOgmyiaDdAHaHa?rs=1&pid=ImgDetMain",
+      "id": "82c9"
+    },
+    {
+      "name": "Sonata Silver White Dial Analog Watch ",
+      "price": "1079",
+      "color": "Brown",
+      "category": "watch",
+      "description": "Sonata Silver White Dial Analog Watch For Men-NR7128WL02",
+      "image": "https://th.bing.com/th?id=OPAC.wmwp7GaLFsBJ2w474C474&w=592&h=550&o=5&pid=21.1",
+      "id": "b4b6"
+    },
+    {
+      "id": "2110",
+      "name": "FIRE-BOLTT Smartwatch",
+      "price": "949",
+      "color": "white",
+      "category": "Smart Watch",
+      "description": "FIRE-BOLTT Ninja Call Pro Smartwatch with Bluetooth Calling (42.9mm HD Display, IP67 Water Resistant, Grey Strap)",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1712053708/Croma%20Assets/Communication/Wearable%20Devices/Images/302547_0_rb1l4h.png?tr=w-360"
+    },
+    {
+      "id": "eeb7",
+      "name": "FIRE-BOLTT Dream",
+      "price": "4949",
+      "color": "Black",
+      "category": "Smart Watch",
+      "description": "FIRE-BOLTT Dream Wi-Fi+4G SIM Android OS Wristphone (51.3mm HD Display, In-built GPS, Shadow Glide Strap)",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1704789865/Croma%20Assets/Wearable/Wearable%20Devices/Images/303708_xpvmhr.png?tr=w-360"
+    },
+    {
+      "name": "Nike Air Max 270",
+      "price": "14999",
+      "color": "White/Black",
+      "category": "shoes",
+      "description": "Nike Air Max 270 - Ultimate Comfort and Style",
+      "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/gorfwjchoasrrzr1fggt/AIR+MAX+270.png",
+      "id": "n270"
+    },
+    {
+      "name": "Rolex Submariner",
+      "price": "799000",
+      "color": "Stainless Steel",
+      "category": "watches",
+      "description": "Rolex Submariner - Iconic Dive Watch",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi2_TaFIsVBhLoXZHyBIRAu6YvtpddVYAoCQ&s",
+      "id": "rsub"
+    },
+    {
+      "name": "Apple MacBook Air M2",
+      "price": "99999",
+      "color": "Space Grey",
+      "category": "laptops",
+      "description": "Apple MacBook Air M2 - Power and Portability",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJaO5U9CMa7Mb7oNI0OY7Wn8SA_BZZrkG6Q&s",
+      "id": "macair"
+    },
+    {
+      "name": "Adidas Originals T-Shirt",
+      "price": "2999",
+      "color": "Black",
+      "category": "t-shirts",
+      "description": "Adidas Originals T-Shirt - Classic Fit",
+      "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/30381400/2024/9/3/dc4bd5e1-8637-47da-a403-981b10ebf2b31725361501352-ADIDAS-Originals-Men-Tshirts-3631725361500913-2.jpg",
+      "id": "adtshirt"
+    },
+    {
+      "name": "Puma RS-X",
+      "price": "12999",
+      "color": "Blue/Yellow",
+      "category": "shoes",
+      "description": "Puma RS-X - Bold and Comfortable",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_HDlzgWwBdYZORRPafYPz__Yml54HwH65rQ&s",
+      "id": "pumsx"
+    },
+    {
+      "name": "Seiko 5 Automatic",
+      "price": "19900",
+      "color": "Silver",
+      "category": "watches",
+      "description": "Seiko 5 Automatic - Reliable and Elegant",
+      "image": "https://images-cdn.ubuy.co.in/633af9eff7e4887cb5552ef6-seiko-mens-snxs73-5-automatic-white-dial.jpg",
+      "id": "s5auto"
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": "109999",
+      "color": "Silver",
+      "category": "laptops",
+      "description": "Dell XPS 13 - Stunning Design and Performance",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOQEwLFbD6QlsLUMrQjUgwUz4_lAm_vNZfw&s",
+      "id": "dxps13"
+    },
+    {
+      "name": "Hanes ComfortSoft T-Shirt",
+      "price": "1999",
+      "color": "White",
+      "category": "t-shirts",
+      "description": "Hanes ComfortSoft T-Shirt - Soft and Breathable",
+      "image": "https://m.media-amazon.com/images/I/311ldurLdoL._AC_UY1100_.jpg",
+      "id": "hanestshirt"
+    }
+  ]
